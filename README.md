@@ -24,6 +24,11 @@ A modern web application for analyzing, monitoring, and managing Cloudflare cach
   - Cache Types
   - Cache Purging
 
+
+## Live Demo Video
+
+[![Watch the Live Demo](https://img.shields.io/badge/Watch%20Live%20Demo-Click%20Here-green?style=for-the-badge&logo=cloudflare)](https://cloudflarecache.pages.dev/)
+
 ## Getting Started
 
 ### Prerequisites
